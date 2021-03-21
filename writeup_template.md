@@ -7,7 +7,7 @@
 
 Image processing pipeline is created with the following steps:
 
-![pipeline]('Pipeline.png')
+![pipeline]('https://github.com/vijayknarine/CarND-LaneLines-P1/blob/master/Pipeline.png')
 
 
 Adjusted the parameters based on the test images as below:
