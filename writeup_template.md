@@ -7,7 +7,7 @@
 
 Image processing pipeline is created with the following steps:
 
-![pipeline]['./Pipeline.png']
+![pipeline]('./Pipeline.png')
 
 
 Adjusted the parameters based on the test images as below:
